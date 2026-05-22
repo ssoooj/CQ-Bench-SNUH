@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use CQ-Bench-SNUH, please cite it as below."
+title: "CQ-Bench-SNUH: A CDM-Resident Executable-Reference Benchmark for Natural-Language OMOP CDM Cohort Queries"
+type: dataset
+authors:
+  - Name: Sohyeon Jeon
+    email: sohyeon@snu.ac.kr
+    affiliation: "Vital Lab, Healthcare AI Institute, Seoul National University Hospital"
+    orcid: "https://orcid.org/0009-0002-3357-7060"
+  - Name: Hyung-Chul Lee
+    email: vital@snu.ac.kr
+    affiliation: "Vital Lab, Healthcare AI Institute, Seoul National University Hospital"
+    orcid: "https://orcid.org/0000-0003-0048-7957"
+repository-code: "https://github.com/sohyeonclaire/CQ-Bench-SNUH"
+abstract: "CQ-Bench-SNUH is a CDM-resident executable-reference benchmark for evaluating natural-language cohort definition systems over an OMOP CDM. Reference labels are deterministic cohort counts derived from OMOP concept slots and SQL templates, not chart-reviewed clinical gold standards."
+keywords:
+  - OMOP CDM
+  - cohort definition
+  - benchmark
+  - natural language query
+  - executable reference
+  - synthetic data
+license: GPL-3.0-only
+version: "0.1.0"
+date-released: "2026-05-22"
